@@ -32,5 +32,5 @@ For details, please refer to `predict.py` or our demo file.
 ```
 
 # Demo
-Please check our demo in `demo.ipynb`. Using four sample audio files from the sample folder, we compare each speech sample and predict its attributes.\
+Please check our demo in `demo.ipynb`. Using four sample audio files from an unseen dataset (VCTK), which is located in the `sample` folder, we compare each speech sample and predict its attributes.\
 In the `.ipynb` file, we compare the top-10 attributes between speakers of the same gender. Listen to the samples and check whether they make sense.
